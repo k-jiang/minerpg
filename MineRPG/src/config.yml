@@ -1,3 +1,16 @@
+#gameTitle : RPG game's title.
 gameTitle: "mineRPG sample game"
+#gameWorld : which world is mineRPG working on.
 gameWorld: world_rpg
+#dbtype : database type. support sqlite or mysql.
 dbtype: sqlite
+#sqlite_db_name : database name of sqlite, locate from bukkit/plugins/mineRPG folder.
+sqlite_db_name: minerpg.db
+#mysql_host : host name of mysql server.
+mysql_host: localhost
+#mysql_dbname : database name of mysql.
+mysql_dbname: db_minerpg
+#mysql_user : user name of mysql.
+mysql_user: root
+#mysql_pwd : password of mysql user.
+mysql_pwd: 
