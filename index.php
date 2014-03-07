@@ -35,7 +35,7 @@ body { background:#ccc; margin:0; font-size:14px; }
 </div>
 <div class="mainContainer">
 <h1>
-Working on progress...
+Working in progress...
 </h1>
 <p class="center" style="font-size:18px;">Please concern about the latest informations.</p>
 </div>
