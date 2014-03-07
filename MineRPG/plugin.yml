@@ -1,0 +1,14 @@
+name: MineRPG
+main: com.gmail.dlm.tamashii.mineRPG.MineRPG
+version: 14.2.1.290
+commands:
+  minerpg:
+    description: This command is used for MineRPG's basic operations.
+    usage: "/minerpg <subcommand> [player]; input '/minerpg help' for details."
+    permission: MineRPG.minerpg
+    permission-message: "You don't have <permission>"
+  myrpg:
+    description: alias of minerpg.
+    usage: "/myrpg <subcommand> [player]; input '/myrpg help' for details."
+    permission: MineRPG.minerpg
+    permission-message: "You don't have <permission>"

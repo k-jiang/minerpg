@@ -1,0 +1,3 @@
+gameTitle: "mineRPG sample game"
+gameWorld: world_rpg
+dbtype: sqlite
